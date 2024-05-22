@@ -1,0 +1,19 @@
+.html
+reco_data
+templates
+temp
+# us_zip_code.csv
+# rec_test_1.json
+# rec_test_2.json
+# rec_test_3.json
+# rec_test_4.json
+# rec_test_5.json
+# rec_test_6.json
+# rec_test_7.json
+*.json
+*.pkl
+*.csv
+processed_texts.json
+.ipynb_checkpoints
+.env
+best_algo_dump
